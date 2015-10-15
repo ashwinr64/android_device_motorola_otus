@@ -155,13 +155,6 @@ PRODUCT_PACKAGES += \
     ethertypes \
     libebtc
 
-# FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    FMRecord \
-    libqcomfm_jni \
-    qcom.fmradio
-
 # Lights
 PRODUCT_PACKAGES += \
     lights.msm8610
